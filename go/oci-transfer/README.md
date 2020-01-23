@@ -9,3 +9,9 @@ export oci_region=
 ```
 
 Region FRA is : eu-frankfurt-1
+
+To download : 
+downloadoci <object> <bucket> <out file>
+  
+ To upload : 
+uploadoci <filename> <bucket>
