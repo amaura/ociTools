@@ -18,3 +18,7 @@ downloadoci <object> <bucket> <out file>
  ```
 uploadoci <filename> <bucket>
 ```
+To list : 
+ ```
+listoci <bucket> <prefix> <limit: 0 to 1000>
+```
